@@ -11,3 +11,5 @@
 - приложение должно быть написано на Flutter'е
 - Код должен быть продокументирован и отформатирован по правилам Effective Dart
 - веб-версия приложения должна быть развёрнута на GitHub Pages.
+
+  https://kolianych.github.io/test_image_loading.io/
